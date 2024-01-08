@@ -18,9 +18,13 @@ Email: ***ekim54@students.kennesaw.edu***
 Online (MS Teams): Tuesdays 11:00 AM - 02:00 PM
 ### MS Teams Meeting 
 **Join on your computer, mobile app or room device**
+
 [Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzAzMTA5ZjItZGI4OS00OTc3LThjMzAtMjExYTE2ZjgzNmUz%40thread.v2/0?context=%7b%22Tid%22%3a%2245f26ee5-f134-439e-bc93-e6c7e33d61c2%22%2c%22Oid%22%3a%22bcacccfb-5b99-4a48-9177-2a3e26ed3d66%22%7d)
+
 Meeting ID: 293 013 011 859 
+
 Passcode: MBZt5R 
+
 [Download Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app) | [Join on the web](https://www.microsoft.com/microsoft-teams/join-a-meeting)
 [Learn More](https://aka.ms/JoinTeamsMeeting) | [Meeting options](https://teams.microsoft.com/meetingOptions/?organizerId=bcacccfb-5b99-4a48-9177-2a3e26ed3d66&tenantId=45f26ee5-f134-439e-bc93-e6c7e33d61c2&threadId=19_meeting_YzAzMTA5ZjItZGI4OS00OTc3LThjMzAtMjExYTE2ZjgzNmUz@thread.v2&messageId=0&language=en-US)
 
