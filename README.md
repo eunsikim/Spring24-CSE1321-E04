@@ -1,11 +1,11 @@
 # CSE 1321L/E04 Introduction
 ---
 ## About the Class
-Instructor of Record: ***Nick Murphy***
-Graduate Teaching Assistant: ***Eun Sik Kim***
-Teaching Assistants: ***TBD***
-Meeting Time: ***Mondays 06:30 PM - 08:10 PM at Atrium Building (J) room 158***
-Email: ***ekim54@students.kennesaw.edu***
+- Instructor of Record: ***Nick Murphy***
+- Graduate Teaching Assistant: ***Eun Sik Kim***
+- Teaching Assistants: ***TBD***
+- Meeting Time: ***Mondays 06:30 PM - 08:10 PM at Atrium Building (J) room 158***
+- Email: ***ekim54@students.kennesaw.edu***
 
 > [!Note]
 > ⚠️ Communicate with your KSU Email, not D2L or any other medium.
@@ -56,15 +56,17 @@ More info on the Tutoring Center in the FYE website.
 - Assignments and Labs are submitted through Gradescope
 [Submission Guidelines](https://ccse.kennesaw.edu/fye/submissionguidelines.php)
 - This is a C++ section. Your source code must be with the extension .cpp or .h
-    - Ex:
+	- Ex:
 	    - Lab1A.cpp
-    Any other extension will result in an automatic 0
+		    Any other extension will result in an automatic 0
+
 - Name your files correctly
-    - Ex:
+	- Ex:
 		Lab 1 has three parts A, B, and C. When you submit them, make sure they are named as instructed:
 			- Lab1A.cpp 
 			- Lab1B.cpp
 			- Lab1C.cpp
+
 - Submit only what it is required, any extra file that is not .java will result in a penalization towards the grading of the assignment or lab.
 - Carefully read the whole instruction manual, it may contain important and specific information and requirements.
 
