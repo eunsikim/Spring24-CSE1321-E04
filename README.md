@@ -68,28 +68,36 @@ More info on the Tutoring Center in the FYE website.
 > Programming is not easy
 - ***FYE Website***
     [Getting Started](https://ccse.kennesaw.edu/fye/getting_started.php)
+    
 - ***Gradescope***
     [Gradescope | Save time grading](https://www.gradescope.com/)
-    - You should have received an email from Gradescope.
-    - Submit lab, assignments, midterm, and final.
-    - For this section, submit only .java files unless specified otherwise.
-    - Double check source code submitted.
+	- You should have received an email from Gradescope.
+	- Submit lab, assignments, midterm, and final.
+	- For this section, submit only .java files unless specified otherwise.
+	- Double check source code submitted.
+	
 - ***GitHub Repository***
-    [GitHub - eunsikim/Fall23-CSE1321-J06](https://github.com/eunsikim/Fall23-CSE1321-J06/tree/main)
+    [GitHub - eunsikim/Spring24-CSE1321- E04](https://github.com/eunsikim/Spring24-CSE1321-E04)
+    
 - **D2L**
-    - Modules with slides and videos.
-    - Take midterm and final.
+	- Modules with slides and videos.
+	- Take midterm and final.
+
 - **Tutoring Center at J-265**
-    - Walk-In
-    - Appointments
-    - Do not go with empty code
-    - Extra Credit!
+	- Walk-In
+	- Appointments
+	- Do not go with empty code
+	- Extra Credit!
+
 - **Lab meetings**
-    - Ask questions
+	- Ask questions
+
 - **Office Hours**
+
 - **Textbook**
-    - Optional, but useful
-    - Available in the FYE Website
+	- Optional, but useful
+	- Available in the FYE Website
+
 ## SDS Accommodation
 - Submit all the necessary paperwork on D2L.
-    - Go to Assignments, there should be a dropbox called ***SDS Faculty Notification Letters***.
+	- Go to Assignments, there should be a dropbox called ***SDS Faculty Notification Letters***.
