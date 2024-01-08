@@ -57,7 +57,7 @@ More info on the Tutoring Center in the FYE website.
 [Submission Guidelines](https://ccse.kennesaw.edu/fye/submissionguidelines.php)
 - This is a C++ section. Your source code must be with the extension .cpp or .h
 	- Ex:
-	    - Lab1A.cpp
+		- Lab1A.cpp
 
 	- Any other extension will result in an automatic 0
 
