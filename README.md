@@ -58,14 +58,15 @@ More info on the Tutoring Center in the FYE website.
 - This is a C++ section. Your source code must be with the extension .cpp or .h
 	- Ex:
 	    - Lab1A.cpp
-		    Any other extension will result in an automatic 0
+
+	- Any other extension will result in an automatic 0
 
 - Name your files correctly
 	- Ex:
 		Lab 1 has three parts A, B, and C. When you submit them, make sure they are named as instructed:
-			- Lab1A.cpp 
-			- Lab1B.cpp
-			- Lab1C.cpp
+		- Lab1A.cpp 
+		- Lab1B.cpp
+		- Lab1C.cpp
 
 - Submit only what it is required, any extra file that is not .java will result in a penalization towards the grading of the assignment or lab.
 - Carefully read the whole instruction manual, it may contain important and specific information and requirements.
