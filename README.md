@@ -68,7 +68,7 @@ More info on the Tutoring Center in the FYE website.
 		- Lab1B.cpp
 		- Lab1C.cpp
 
-- Submit only what it is required, any extra file that is not .java will result in a penalization towards the grading of the assignment or lab.
+- Submit only what it is required, any extra file that is not .cpp will result in a penalization towards the grading of the assignment or lab.
 - Carefully read the whole instruction manual, it may contain important and specific information and requirements.
 
 ## Resources
@@ -80,7 +80,7 @@ More info on the Tutoring Center in the FYE website.
     [Gradescope | Save time grading](https://www.gradescope.com/)
 	- You should have received an email from Gradescope.
 	- Submit lab, assignments, midterm, and final.
-	- For this section, submit only .java files unless specified otherwise.
+	- For this section, submit only .cpp files unless specified otherwise.
 	- Double check source code submitted.
 	
 - ***GitHub Repository***
