@@ -9,9 +9,9 @@
 - Most IDEs have lots of dedicated features to help you to focus mostly on writing code.
 - Visual Studio, XCode, and/or Replit
     
-    >[!Note]
-    More info on how to install Visual Studio should be provided in the Lab 1 instruction manual.
-    Moreover, a video guide on how to install Visual Studio and XCode is provided in D2L under Module 01.
+>[!Note]
+More info on how to install Visual Studio should be provided in the Lab 1 instruction manual.
+Moreover, a video guide on how to install Visual Studio and XCode is provided in D2L under Module 01.
 
     
 
@@ -33,8 +33,8 @@ The name of the `main` method is always `main`. This is because `main` is a C++ 
 
 - Most of the lines of code you will write throughout the semester will be done “inside” the `main` method
     
-    >[!Note]
-    By “inside”, we refer that the lines of code will go inside the curly braces ‘{ }’
+>[!Note]
+By “inside”, we refer that the lines of code will go inside the curly braces ‘{ }’
     
     
 
