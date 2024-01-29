@@ -1,19 +1,25 @@
+
 #include <iostream>
-#include <string>
 
-using namespace std;
+int main() {
+    // Define the size of the shape
+    int size = 4; // You can change this value to adjust the size of the shape
 
-int main () {
-    // Constant Variable
-    const int PI = 3.14;
+    // Loop to print the shape
+    for (int i = 1; i <= size; ++i) {
+        // Print stars
+        for (int j = 1; j <= i; ++j) {
+            std::cout << "*";
+        }
 
-    int number1 = 8;
-    float number2 = 2.5;
+        // Print underscores
+        for (int k = 1; k <= size - i; ++k) {
+            std::cout << "_";
+        }
 
-    cout << number1 + number2 << endl;
+        // Move to the next line after each row
+        std::cout << std::endl;
+    }
 
-    // Truncate
-    int res = number1 + number2;
-
-    cout << res << endl;
+    return 0;
 }
