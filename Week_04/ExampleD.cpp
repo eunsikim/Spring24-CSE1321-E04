@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     string word1 = "eun sik";
-    string word2 = "Eun SiK asdadgtj";
+    string word2 = "Eun SiK";
 
     // Check if word1 is equal to word2, if equal is 0 if not is 1
     if(word1.compare(word2) == 0){
