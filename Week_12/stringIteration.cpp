@@ -16,4 +16,10 @@ int main(){
     for(int i = 0; i < w.length(); i++){
         cout << w.at(i);
     }
+    cout << endl;
+
+    // Changing the first character of the string
+    w[0] = 'h';
+
+    cout << w;
 }
