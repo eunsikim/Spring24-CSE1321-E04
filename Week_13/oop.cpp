@@ -35,6 +35,17 @@ public:
     }
 };
 
+// toLower
+string lower(string s)
+{
+    for (int i = 0; i < s.length(); i++)
+    {
+        s[i] = tolower(s[i]);
+    }
+
+    return s;
+}
+
 int main()
 {
     phone stock[10];
@@ -45,7 +56,9 @@ int main()
 
     stock[1] = phone();
 
-    cout << stock[0].model << " " << stock[1].year << " " << stock[1].color << endl;
+    stock[0].model = "Hello World";
+
+    // cout << stock[0].model << " " << stock[1].year << " " << stock[1].color << endl;
 
     for (phone p : stock)
     {
